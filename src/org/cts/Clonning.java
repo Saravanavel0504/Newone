@@ -6,7 +6,15 @@ public class Clonning {
 		System.out.println("Welcome");
         System.out.println("into shop");
 		System.out.println("buy vegtables");
-
+		System.out.println("Potato.........1");
+		System.out.println("Potato.........2");
+		System.out.println("Potato.........3");
+		System.out.println("Potato.........4");
+		System.out.println("Potato.........5");
+		System.out.println("Potato.........6");
+		System.out.println("Potato.........7");
+		System.out.println("Potato.........8");
+		
 	}
 
 }
